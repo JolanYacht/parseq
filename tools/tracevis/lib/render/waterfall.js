@@ -22,7 +22,7 @@ var WIDTH = 960, MARGIN = {
   top : 40,
   bottom : 10,
   left : 10,
-  right : 250
+  right : 2130
 }, BAR_HEIGHT = 25, BAR_SPACING = 10, MIN_BAR_WIDTH = 3,
 
 // How long in ms to take when hiding / revealing elements
